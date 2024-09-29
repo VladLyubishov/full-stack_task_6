@@ -1,0 +1,16 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "main": "less.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VladLyubishov",
+  "license": "ISC",
+  "dependencies": {
+    "less": "^4.2.0",
+    "live-server": "^1.2.2"
+  },
+  "description": ""
+}
