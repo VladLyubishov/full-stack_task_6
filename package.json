@@ -1,9 +1,9 @@
 {
-  "name": "task4",
+  "name": "task6",
   "version": "1.0.0",
-  "main": "less.js",
+  "main": "main.js",
   "scripts": {
-    "start": "live-server",
+    "start": "live-server adaptCSS",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "VladLyubishov",
@@ -12,5 +12,13 @@
     "less": "^4.2.0",
     "live-server": "^1.2.2"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladLyubishov/full-stack_task_6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VladLyubishov/full-stack_task_6/issues"
+  },
+  "homepage": "https://github.com/VladLyubishov/full-stack_task_6#readme"
 }
